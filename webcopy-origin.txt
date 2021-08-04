@@ -1,0 +1,1244 @@
+Uri: https://standoff2.cc/
+File Name: C:\Downloaded Web Sites\standoff2.cc\index.htm
+Content Type: text/html
+
+Uri: https://standoff2.cc/files/cases/image/patternzstandskins.jpg
+File Name: C:\Downloaded Web Sites\standoff2.cc\files\cases\image\patternzstandskins.jpg
+Content Type: image/jpeg
+
+Uri: https://standoff2.cc/favicon.ico
+File Name: C:\Downloaded Web Sites\standoff2.cc\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://standoff2.cc/_nuxt/app.9d9d8ff.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\app.9d9d8ff.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/pages/index.4de72db.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\pages\index.4de72db.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/common.b69e1a1.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\common.b69e1a1.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/vendors/pages/index.2df130d.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\vendors\pages\index.2df130d.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/pages/top-players.8d5c374.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\pages\top-players.8d5c374.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/pages/crash-game.7f2875d.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\pages\crash-game.7f2875d.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/pages/upgrade-game.051010f.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\pages\upgrade-game.051010f.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/pages/contract.e905821.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\pages\contract.e905821.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/pages/monopoly.c7a597e.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\pages\monopoly.c7a597e.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/pages/faq.f4e9d0f.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\pages\faq.f4e9d0f.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/pages/_slug.6499c56.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\pages\_slug.6499c56.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/lay.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\lay.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/css2/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\css2\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/css2/sendpulse-prompt.min.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\css2\sendpulse-prompt.min.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/css2/stylessk.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\css2\stylessk.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/css2/style.css?v=15
+File Name: C:\Downloaded Web Sites\standoff2.cc\css2\style.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/top
+File Name: C:\Downloaded Web Sites\standoff2.cc\top.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/craft
+File Name: C:\Downloaded Web Sites\standoff2.cc\craft.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/faq
+File Name: C:\Downloaded Web Sites\standoff2.cc\faq.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/bonuses
+File Name: C:\Downloaded Web Sites\standoff2.cc\bonuses.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/150
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\150.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/134
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\134.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/135
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\135.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/118
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\118.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/119
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\119.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/120
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\120.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/144
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\144.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/121
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\121.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/143
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\143.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/117
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\117.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/116
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\116.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/110
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\110.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/109
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\109.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/108
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\108.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/107
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\107.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/106
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\106.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/131
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\131.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/130
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\130.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/129
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\129.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/122
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\122.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/123
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\123.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/125
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\125.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/126
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\126.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/127
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\127.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/128
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\128.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/124
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\124.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/111
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\111.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/112
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\112.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/113
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\113.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/114
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\114.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/115
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\115.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/101
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\101.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/102
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\102.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/103
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\103.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/104
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\104.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/105
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\105.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/145
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\145.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/146
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\146.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/147
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\147.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/148
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\148.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/149
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\149.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/case/132
+File Name: C:\Downloaded Web Sites\standoff2.cc\case\132.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/terms
+File Name: C:\Downloaded Web Sites\standoff2.cc\terms.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/_nuxt/img/logo.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\logo.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/39dcff5.svg
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\39dcff5.svg
+Content Type: image/svg+xml
+
+Uri: https://i.imgur.com/OFfV2Tj.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\OFfV2Tj.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/f357947.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\f357947.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/697f6e0.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\697f6e0.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/r592Wi3.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\r592Wi3.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/8eac35b.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\8eac35b.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Ks4ziKL.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\Ks4ziKL.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/372d260.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\372d260.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/d2820d2.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\d2820d2.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/qlhWDlC.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\qlhWDlC.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/T4X3oRj.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\T4X3oRj.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/wfy2Gja.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\wfy2Gja.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ZyxKsJt.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\ZyxKsJt.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/XWsxvI3.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\XWsxvI3.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/rhWGqvW.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\rhWGqvW.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Z3wPm7L.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\Z3wPm7L.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/rwTpYu0.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\rwTpYu0.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/L8NYR20.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\L8NYR20.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ANCz9AV.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\ANCz9AV.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/EbaAp7m.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\EbaAp7m.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/efOZKfW.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\efOZKfW.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/hUf0Qv7.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\hUf0Qv7.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/8p8eAsv.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\8p8eAsv.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/HHOpUDG.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\HHOpUDG.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/NJt5yos.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\NJt5yos.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ErK37YL.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\ErK37YL.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ZzreGMk.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\ZzreGMk.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/vVUhRiz.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\vVUhRiz.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/WOxg6Li.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\WOxg6Li.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/PxsC6Is.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\PxsC6Is.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/RFF2Z35.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\RFF2Z35.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/gMi9YuR.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\gMi9YuR.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/44jBG8f.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\44jBG8f.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/kIiR6vZ.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\kIiR6vZ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/uGbrhnh.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\uGbrhnh.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/j4QiNPn.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\j4QiNPn.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/uXA7fID.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\uXA7fID.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/VAX8tiT.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\VAX8tiT.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/342Cnw9.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\342Cnw9.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/gRgaaIB.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\gRgaaIB.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/K8Vs9dk.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\K8Vs9dk.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/tATSuqX.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\tATSuqX.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/cHXTG6m.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cHXTG6m.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/yKNb4ww.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\yKNb4ww.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/QOLim3f.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\QOLim3f.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/qLrZRe6.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\qLrZRe6.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/0AvLPNU.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\0AvLPNU.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js2/jquery-1.9.1.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\js2\jquery-1.9.1.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js2/jquery.smoothscroll.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\js2\jquery.smoothscroll.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js2/jquery.arcticmodal-0.3.min.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\js2\jquery.arcticmodal-0.3.min.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js2/jquery.animateNumber.min.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\js2\jquery.animateNumber.min.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js2/moment.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\js2\moment.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js2/slider.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\js2\slider.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js2/script.js?v=18
+File Name: C:\Downloaded Web Sites\standoff2.cc\js2\script.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js2/ion.sound.min.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\js2\ion.sound.min.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/js/core.js?v=67
+File Name: C:\Downloaded Web Sites\standoff2.cc\js\core.js
+Content Type: application/javascript
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Light.40e3170.woff2.html
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Light.40e3170.woff2.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Light.75ac2d4.woff
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Light.75ac2d4.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Light.409c7f7.ttf
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Light.409c7f7.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Regular.6c88072.woff2.html
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Regular.6c88072.woff2.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Regular.c0b8804.woff
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Regular.c0b8804.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Regular.ee65399.ttf
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Regular.ee65399.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Medium.4193cb3.woff2.html
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Medium.4193cb3.woff2.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Medium.72aebf4.woff
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Medium.72aebf4.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Medium.c8b6e08.ttf
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Medium.c8b6e08.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-SemiBold.c74260c.woff2.html
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-SemiBold.c74260c.woff2.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-SemiBold.f410366.woff
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-SemiBold.f410366.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-SemiBold.c641dbe.ttf
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-SemiBold.c641dbe.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Bold.1eaf595.woff2.html
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Bold.1eaf595.woff2.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Bold.137a9f5.woff
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Bold.137a9f5.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Bold.ade91f4.ttf
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Bold.ade91f4.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-ExtraBold.6954210.woff2.html
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-ExtraBold.6954210.woff2.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-ExtraBold.6bf1740.woff
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-ExtraBold.6bf1740.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-ExtraBold.19ba7aa.ttf
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-ExtraBold.19ba7aa.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Black.0b4a7a7.woff2.html
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Black.0b4a7a7.woff2.html
+Content Type: text/html
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Black.2ed2c79.woff
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Black.2ed2c79.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/_nuxt/fonts/Montserrat-Black.27e3649.ttf
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\Montserrat-Black.27e3649.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/_nuxt/fonts/digital-7.d1a0a8c.woff
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\digital-7.d1a0a8c.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/_nuxt/fonts/digital-7.aa205d9.ttf
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\fonts\digital-7.aa205d9.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/_nuxt/img/ee9a52b.jpg
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\ee9a52b.jpg
+Content Type: image/jpeg
+
+Uri: https://standoff2.cc/_nuxt/img/9e4da42.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\9e4da42.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/6fc80f8.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\6fc80f8.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/7729087.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\7729087.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/9e58d5b.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\9e58d5b.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/b9367c0.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\b9367c0.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/8680d24.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\8680d24.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/3eac24b.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\3eac24b.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/ef9c34c.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\ef9c34c.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/c93e342.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\c93e342.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/5a68594.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\5a68594.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/1b85dfd.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\1b85dfd.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/0fd873d.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\0fd873d.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/1f57d14.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\1f57d14.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/1288c7c.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\1288c7c.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/8dd904a.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\8dd904a.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/413ff76.jpg
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\413ff76.jpg
+Content Type: image/jpeg
+
+Uri: https://standoff2.cc/_nuxt/img/ff44988.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\ff44988.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/c85b223.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\c85b223.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/8b7fc6b.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\8b7fc6b.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/e13dde5.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\e13dde5.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/0156b0e.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\0156b0e.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/aab3b36.jpg
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\aab3b36.jpg
+Content Type: image/jpeg
+
+Uri: https://standoff2.cc/_nuxt/img/a388031.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\a388031.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/a4b5e3b.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\a4b5e3b.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/1783701.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\1783701.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/ccc1604.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\ccc1604.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/40978ad.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\40978ad.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/b59ffe1.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\b59ffe1.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/74d1a4d.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\74d1a4d.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/d0cb95f.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\d0cb95f.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/_nuxt/img/e34b069.jpg
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\e34b069.jpg
+Content Type: image/jpeg
+
+Uri: https://standoff2.cc/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\standoff2.cc\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standoff2.cc/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\standoff2.cc\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://standoff2.cc/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\standoff2.cc\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://standoff2.cc/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\standoff2.cc\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://standoff2.cc/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\standoff2.cc\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: https://standoff2.cc/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\standoff2.cc\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://standoff2.cc/_nuxt/cursor.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\cursor.png
+Content Type: image/png
+
+Uri: https://sun1-55.userapi.com/s/v1/ig2/I3pLXTF6Y4rWljtFG-8qYEbqGOfd_lYQ7Q8VMDjieSXwv38GbWCc7uAKnepNEgucjxqHYd43sA2u7zT01LSJqCAP.jpg?size=50x0&quality=96&crop=20,20,200,200&ava=1
+File Name: C:\Downloaded Web Sites\standoff2.cc\s\v1\ig2\I3pLXTF6Y4rWljtFG-8qYEbqGOfd_lYQ7Q8VMDjieSXwv38GbWCc7uAKnepNEgucjxqHYd43sA2u7zT01LSJqCAP.jpg
+Content Type: image/jpeg
+
+Uri: https://sun1-97.userapi.com/s/v1/ig2/Q8PKl5q-YyEVUadWPKHlwZ2a0XO6tWCZsPAVCXS2T3gq_9rzYWi1jqBVe4PTH2knnmBdTZXsv4fvHDfa9HjFxZlF.jpg?size=50x0&quality=96&crop=80,80,642,642&ava=1
+File Name: C:\Downloaded Web Sites\standoff2.cc\s\v1\ig2\Q8PKl5q-YyEVUadWPKHlwZ2a0XO6tWCZsPAVCXS2T3gq_9rzYWi1jqBVe4PTH2knnmBdTZXsv4fvHDfa9HjFxZlF.jpg
+Content Type: image/jpeg
+
+Uri: https://sun1-96.userapi.com/s/v1/ig2/BxM1SGRK1VEWeimIPqsys3AmZ_xI4-Us7NlFsAmJruzMrOQRH50IQCUfLnt1ad-lIu5wUKQOIPr9OhxteZx7aCjm.jpg?size=50x0&quality=96&crop=74,74,588,588&ava=1
+File Name: C:\Downloaded Web Sites\standoff2.cc\s\v1\ig2\BxM1SGRK1VEWeimIPqsys3AmZ_xI4-Us7NlFsAmJruzMrOQRH50IQCUfLnt1ad-lIu5wUKQOIPr9OhxteZx7aCjm.jpg
+Content Type: image/jpeg
+
+Uri: https://sun1-29.userapi.com/s/v1/ig2/VHaR33c3TjjguQElscz96_IbZywfRL0D-ugI4fAgPwXXdSLM6WogeK7g1YQDoGTq2hAzygLHwJxfRnbO2zDdqMm1.jpg?size=50x0&quality=96&crop=183,0,713,713&ava=1
+File Name: C:\Downloaded Web Sites\standoff2.cc\s\v1\ig2\VHaR33c3TjjguQElscz96_IbZywfRL0D-ugI4fAgPwXXdSLM6WogeK7g1YQDoGTq2hAzygLHwJxfRnbO2zDdqMm1.jpg
+Content Type: image/jpeg
+
+Uri: https://sun1-19.userapi.com/s/v1/ig2/DKk5U-ITSPmW8UHov9FZJ82Y4oKLXvqviIeZO2F_P1t9cC0YdUP7RbjzmnIVOaSkHBgZ4hNSo8INidFZurV58Nf8.jpg?size=50x0&quality=96&crop=1,286,719,719&ava=1
+File Name: C:\Downloaded Web Sites\standoff2.cc\s\v1\ig2\DKk5U-ITSPmW8UHov9FZJ82Y4oKLXvqviIeZO2F_P1t9cC0YdUP7RbjzmnIVOaSkHBgZ4hNSo8INidFZurV58Nf8.jpg
+Content Type: image/jpeg
+
+Uri: https://sun1-89.userapi.com/s/v1/ig2/uxevS4zqbIpTMqIr5nxBHoxFnPq3fd_G9OXGvlItpHNbGgkVqrTT082z4SQJN0rZ8RlwuX5pLK1mUHikYzaoMVHv.jpg?size=50x0&quality=96&crop=140,0,599,599&ava=1
+File Name: C:\Downloaded Web Sites\standoff2.cc\s\v1\ig2\uxevS4zqbIpTMqIr5nxBHoxFnPq3fd_G9OXGvlItpHNbGgkVqrTT082z4SQJN0rZ8RlwuX5pLK1mUHikYzaoMVHv.jpg
+Content Type: image/jpeg
+
+Uri: https://sun1-16.userapi.com/s/v1/ig2/KvluRNXYLxjDBvuw5r83MUKXzCaQUuQ174yBJ6xVpOF-8H8vMR8ImXXi1sDsTwwXzeKfKSCnIDXkNXOXEXQfCSDJ.jpg?size=50x0&quality=96&crop=0,0,539,539&ava=1
+File Name: C:\Downloaded Web Sites\standoff2.cc\s\v1\ig2\KvluRNXYLxjDBvuw5r83MUKXzCaQUuQ174yBJ6xVpOF-8H8vMR8ImXXi1sDsTwwXzeKfKSCnIDXkNXOXEXQfCSDJ.jpg
+Content Type: image/jpeg
+
+Uri: https://standoff2.cc/_nuxt/subscriptions.e2fd45c.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\subscriptions.e2fd45c.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/_nuxt/img/c8d1486.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\_nuxt\img\c8d1486.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/standoff2_cc/
+File Name: C:\Downloaded Web Sites\standoff2.cc\standoff2_cc\index.htm
+Content Type: text/html
+
+Uri: https://i.imgur.com/iIj3se0.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\iIj3se0.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/D6lFsYM.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\D6lFsYM.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/mpZSeJs.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\mpZSeJs.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/css2/stylessk.css?v=15
+File Name: C:\Downloaded Web Sites\standoff2.cc\css2\stylessk-1.css
+Content Type: text/css
+
+Uri: https://standoff2.cc/js/core.js
+File Name: C:\Downloaded Web Sites\standoff2.cc\js\core-1.js
+Content Type: application/javascript
+
+Uri: https://i.imgur.com/2KstTeC.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\2KstTeC.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/DltUyxi.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\DltUyxi.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/rxsQ8yg.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\rxsQ8yg.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/52hP54D.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\52hP54D.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/fiiuM1e.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\fiiuM1e.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/qtFhHAr.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\qtFhHAr.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/i8MGZlx.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\i8MGZlx.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/8cOGj05.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\8cOGj05.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/mhWA6TY.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\mhWA6TY.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/HVpmsmF.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\HVpmsmF.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/1jKAXuq.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\1jKAXuq.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/watch?v=tkvvDRCYR6E&feature=youtu.be
+File Name: C:\Downloaded Web Sites\standoff2.cc\watch.html
+Content Type: text/html
+
+Uri: https://stancase.net/uploads/M40 Quake.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\uploads\M40 Quake.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/rVBKp89.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\rVBKp89.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/xtrZbUO.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\xtrZbUO.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/CaWlkoX.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\CaWlkoX.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/kKNBJ1E.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\kKNBJ1E.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/5kLgtTm.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\5kLgtTm.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ys0LypA.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\ys0LypA.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Np5YQva.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\Np5YQva.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/nZDajcP.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\nZDajcP.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/YYPDXiZ.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\YYPDXiZ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/CmtjIcp.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\CmtjIcp.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/IHjCuKx.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\IHjCuKx.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/MRiGkwp.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\MRiGkwp.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/TMkhD95.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\TMkhD95.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Qusnt9I.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\Qusnt9I.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/CmmzNgZ.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\CmmzNgZ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/n47S1Ri.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\n47S1Ri.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/yLe5TBK.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\yLe5TBK.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/sga6G15.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\sga6G15.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/M6DlklJ.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\M6DlklJ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/z8Vmg1b.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\z8Vmg1b.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/rqNU6g8.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\rqNU6g8.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/UOgjFem.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\UOgjFem.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Jbiu0D0.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\Jbiu0D0.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/zQIO3T9.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\zQIO3T9.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/S0kwAVt.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\S0kwAVt.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/oJ2bfk4.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\oJ2bfk4.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/gCuDL5K.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\gCuDL5K.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ruHoWVN.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\ruHoWVN.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/syao5iZ.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\syao5iZ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/MUrRmg0.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\MUrRmg0.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/KDSY0mn.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\KDSY0mn.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/FhiIxvY.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\FhiIxvY.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/5HtNAqA.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\5HtNAqA.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/52GKRWb.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\52GKRWb.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/cOflVoq.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cOflVoq.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/VwkPlMV.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\VwkPlMV.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/lorq67h.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\lorq67h.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/8NjyPQk.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\8NjyPQk.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/Kb1u06x.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\Kb1u06x.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/MA8WLD8.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\MA8WLD8.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/0VnAdry.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\0VnAdry.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/6jYdds9.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\6jYdds9.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/bPwZiHm.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\bPwZiHm.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/gUDeJhn.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\gUDeJhn.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ko5ohh7.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\ko5ohh7.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/tyWEMbv.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\tyWEMbv.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/1CaqilS.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\1CaqilS.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/UuqHLtL.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\UuqHLtL.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/TXOXh9x.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\TXOXh9x.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/ckDvvld.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\ckDvvld.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/FYmQmHy.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\FYmQmHy.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/F6qJ120.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\F6qJ120.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/sSfkjuG.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\sSfkjuG.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/biji3FG.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\biji3FG.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/uZTRtsq.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\uZTRtsq.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/D9Qt7VB.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\D9Qt7VB.png
+Content Type: image/png
+
+Uri: https://stancase.net/uploads/KARAMBIT Universe.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\uploads\KARAMBIT Universe.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/urtZUhp.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\urtZUhp.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/OMWL9Ba.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\OMWL9Ba.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/rP0XZxk.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\rP0XZxk.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/c8i1GLz.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\c8i1GLz.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/lYcl4Cj.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\lYcl4Cj.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/WHhi8AF.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\WHhi8AF.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/WyZl22m.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\WyZl22m.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/4uB5YGg.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\4uB5YGg.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/JwJWgxC.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\JwJWgxC.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/bpSyeqQ.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\bpSyeqQ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/9yZvZU7.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\9yZvZU7.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/K2Ce9k3.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\K2Ce9k3.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/BMtVE2M.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\BMtVE2M.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/fLPeA6S.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\fLPeA6S.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/McurmWQ.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\McurmWQ.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/4zCuLZb.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\4zCuLZb.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/bYAMOXB.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\bYAMOXB.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/xIACHmq.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\xIACHmq.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/VWWgv9a.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\VWWgv9a.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/9kT4eq8.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\9kT4eq8.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/tVlAo9j.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\tVlAo9j.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/v9YUKdd.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\v9YUKdd.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/UPq89QE.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\UPq89QE.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/de8mfHC.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\de8mfHC.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\standoff2.cc\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\standoff2.cc\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://i.imgur.com/sL5MP6c.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\sL5MP6c.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://standoff2.cc/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\standoff2.cc\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\standoff2.cc\5xx-error-landing\index.htm
+Content Type: text/html
+
